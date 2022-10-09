@@ -135,6 +135,14 @@ Command is used to see the history of a repository.
 
 [Hello World Docker Image](https://hub.docker.com/_/hello-world)
 Run Hello World Docker Image Locally.
+```
+## This command used to pull the docker hub repo.
+docker pull hello-world
+
+## This Command used to run the repo.
+docker run hello-world 
+```
+![image](https://user-images.githubusercontent.com/70307607/194756120-bc3501f0-f785-4a3c-89a6-91d586aa7143.png)
 
 
 ### Assignment 3:
