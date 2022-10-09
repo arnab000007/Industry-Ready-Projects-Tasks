@@ -102,11 +102,27 @@ This command used to delete a Docker images from the local system
 ![image](https://user-images.githubusercontent.com/70307607/194709238-e9d437ca-f378-49d1-b709-cdb6bccb38c9.png)
 
 #### Docker Command 12
-
+```
+docker kill d3b5c37eeabe
+```
+This Command used to kill a running container.
+![image](https://user-images.githubusercontent.com/70307607/194755698-a677d6eb-85ce-419b-b501-486ad59a8c5c.png)
 
 #### Docker Command 13
+```
+docker rm -f d3b5c37eeabe
+```
+This Command is used to destroy a container. Here, "-f" allows removing running containers
+![image](https://user-images.githubusercontent.com/70307607/194755532-57fa91aa-3c39-42ec-929e-0633378feea2.png)
+
 
 #### Docker Command 14
+```
+docker top 665c2c35e2ca 
+```
+
+This Command used to get the list the processes running inside a container. 
+![image](https://user-images.githubusercontent.com/70307607/194755827-1b332500-18cc-4ff0-93c6-2c3f4472cdeb.png)
 
 #### Docker Command 15
 ```
