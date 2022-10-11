@@ -8,6 +8,82 @@ git status
 ```
 ![image](https://user-images.githubusercontent.com/113978087/192515037-9b4ada79-3a28-4589-b055-9bf68026d517.png)
 
+#### Git Command 1
+```
+
+```
+
+#### Git Command 2
+```
+
+```
+
+#### Git Command 3
+```
+
+```
+
+#### Git Command 4
+```
+
+```
+
+#### Git Command 5
+```
+
+```
+
+#### Git Command 6
+```
+
+```
+
+#### Git Command 7
+```
+
+```
+
+#### Git Command 8
+```
+
+```
+
+#### Git Command 9
+```
+
+```
+
+#### Git Command 10
+```
+
+```
+
+#### Git Command 11
+```
+
+```
+
+#### Git Command 12
+```
+
+```
+
+#### Git Command 13
+```
+
+```
+
+#### Git Command 14
+```
+
+```
+
+#### Git Command 15
+```
+
+```
+
+
 ### Task 2 
 - Consider that your want to start an open-source project in your organization. Perform all the standard operation to create a repository with minimal permision for all the users. It should contain.
 1. Proper open source structure 
