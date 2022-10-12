@@ -96,6 +96,7 @@ This Command used to get a list of all available branch. A * will appear next to
 git branch developer1 
 ```
 This Command used to create a new branch at the current commit.
+
 ![image](https://user-images.githubusercontent.com/70307607/195254118-850dba67-7dcf-4cf3-a644-a2bc4692c514.png)
 
 #### Git Command 14
@@ -111,6 +112,7 @@ This Command used to switch to another branch and check it out into your working
  git branch -d developer1
 ```
 This Command used to delete a branch.
+
 ![image](https://user-images.githubusercontent.com/70307607/195255269-eb0eaacf-8bbf-4fa3-ae74-795329c52ec3.png)
 
 
