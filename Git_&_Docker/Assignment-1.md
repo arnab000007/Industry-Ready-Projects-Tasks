@@ -10,23 +10,31 @@ git status
 
 #### Git Command 1
 ```
-
+git config --global user.name "Arnab Das" --replace-all
 ```
+This Command used to set the global user name. It will tagged the name for credit when review version history
+![image](https://user-images.githubusercontent.com/70307607/195248932-601ad933-dcef-48c3-8409-ebba31c92e43.png)
 
 #### Git Command 2
 ```
-
+git config --global user.email "abc@xyz.com"
 ```
+This Command used to set the global email. It will associated with each changes.
+![image](https://user-images.githubusercontent.com/70307607/195249000-69226994-dfde-464b-bd04-2f9b71aa7ac4.png)
 
 #### Git Command 3
 ```
-
+git init
 ```
+This Command used to initialize an existing directory as a Git repository. 
+![image](https://user-images.githubusercontent.com/70307607/195249816-ededb54d-3d45-4fda-8ab8-34b99dd0df6b.png)
 
 #### Git Command 4
 ```
-
+git clone https://github.com/arnab000007/gittest.git
 ```
+This Command used to retrieve an entire repository from a github repository via URL
+![image](https://user-images.githubusercontent.com/70307607/195250132-d69f9642-9ac6-43d5-949f-082522b0e6d6.png)
 
 #### Git Command 5
 ```
