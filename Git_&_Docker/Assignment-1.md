@@ -2,11 +2,6 @@
 
 ### Task 1
 - Demonstrate minimum 15 basic Git command with explanation and screenshot.
-```git
-Example 
-git status
-```
-![image](https://user-images.githubusercontent.com/113978087/192515037-9b4ada79-3a28-4589-b055-9bf68026d517.png)
 
 #### Git Command 1
 ```
@@ -81,8 +76,10 @@ This command used to commit staged changes as a new commit snapshot.
 
 #### Git Command 11
 ```
-
+git push origin main 
 ```
+This command used to push the commited snapshot to the git hub repository.
+![image](https://user-images.githubusercontent.com/70307607/195252329-ec0aae69-a84b-45d4-a85d-449d73e804b4.png)
 
 #### Git Command 12
 ```
