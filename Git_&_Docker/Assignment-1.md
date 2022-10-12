@@ -38,33 +38,46 @@ This Command used to retrieve an entire repository from a github repository via 
 
 #### Git Command 5
 ```
-
+git status
 ```
+This Command used to get modified files in working directory, staged for your next commit.
+![image](https://user-images.githubusercontent.com/70307607/195250358-8586bbf6-bfa3-42b2-90b1-497cd20c4a63.png)
 
 #### Git Command 6
 ```
-
+git add README.md
 ```
+This command add a file as it looks now to your next commit (stage).
+![image](https://user-images.githubusercontent.com/70307607/195250617-91c41460-0c16-435b-a71f-551dbb004cb7.png)
 
 #### Git Command 7
 ```
-
+git reset README.md
 ```
+This command used to unstage a file while retaining the changes in working directory.
+![image](https://user-images.githubusercontent.com/70307607/195250965-9bee069c-0fd2-43f3-9b27-6e2e058c89ea.png)
+
 
 #### Git Command 8
 ```
-
+git diff
 ```
+This command used to get the difference of what is changed but not staged yet.
+![image](https://user-images.githubusercontent.com/70307607/195251337-61c20228-21da-4c7a-8222-64116e281753.png)
 
 #### Git Command 9
 ```
-
+git diff --staged
 ```
+This command used to get the difference of what is staged but not yet commited.
+![image](https://user-images.githubusercontent.com/70307607/195251590-b33f6c5e-4dba-407c-b523-534550ce80a0.png)
 
 #### Git Command 10
 ```
-
+git commit -m "This is the Test Commit"
 ```
+This command used to commit staged changes as a new commit snapshot.
+![image](https://user-images.githubusercontent.com/70307607/195251933-186f7eee-871b-494c-9643-d1761a664798.png)
 
 #### Git Command 11
 ```
