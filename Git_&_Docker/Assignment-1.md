@@ -84,23 +84,34 @@ This command used to push the commited snapshot to the git hub repository.
 
 #### Git Command 12
 ```
-
+git branch
 ```
+This Command used to get a list of all available branch. A * will appear next to the currently active branch.
+![image](https://user-images.githubusercontent.com/70307607/195253981-2c879975-b194-4d47-9d83-f80470dafa91.png)
+
+
 
 #### Git Command 13
 ```
-
+git branch developer1 
 ```
+This Command used to create a new branch at the current commit.
+![image](https://user-images.githubusercontent.com/70307607/195254118-850dba67-7dcf-4cf3-a644-a2bc4692c514.png)
 
 #### Git Command 14
 ```
-
+git checkout developer1
 ```
+This Command used to switch to another branch and check it out into your working directory.
+![image](https://user-images.githubusercontent.com/70307607/195254958-74b326d2-edb8-4753-bc84-03b0f3adddc0.png)
+
 
 #### Git Command 15
 ```
-
+ git branch -d developer1
 ```
+This Command used to delete a branch.
+![image](https://user-images.githubusercontent.com/70307607/195255269-eb0eaacf-8bbf-4fa3-ae74-795329c52ec3.png)
 
 
 ### Task 2 
