@@ -22,6 +22,7 @@ This Command used to set the global email. It will associated with each changes.
 git init
 ```
 This Command used to initialize an existing directory as a Git repository. 
+
 ![image](https://user-images.githubusercontent.com/70307607/195249816-ededb54d-3d45-4fda-8ab8-34b99dd0df6b.png)
 
 #### Git Command 4
