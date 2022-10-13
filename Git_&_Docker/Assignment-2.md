@@ -175,3 +175,9 @@ You can find the images in [this link](https://hub.docker.com/repository/docker/
 Automate Assignment below task using github action.
 1. Build Docker Image 
 2. Push Docker Image to Docker hub.
+
+This is screenshot of github action.
+![image](https://user-images.githubusercontent.com/70307607/195676638-18107e7b-149e-4260-a265-566b64bb1029.png)
+
+You can find the gitgub repository in [this link](https://github.com/arnab000007/hello-fast-api).
+
