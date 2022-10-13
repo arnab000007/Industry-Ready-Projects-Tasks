@@ -153,6 +153,24 @@ Run docker image build in previous step.
 Push your Docker image to Docker Hub.
 
 
+```
+docker build -t arnabdas1993/hello-fast-api . 
+```
+To build the docker images we use the above statement.
+```
+docker run -d -p 5000:5000 arnabdas1993/hello-fast-api
+```
+To run the docker images, we use the above command.
+![image](https://user-images.githubusercontent.com/70307607/195492763-049cd47c-af42-41d5-833f-8b6e6609e402.png)
+
+```
+docker push arnabdas1993/hello-fast-api:latest
+```
+This is code to push the docker images to docker hub.
+![image](https://user-images.githubusercontent.com/70307607/195493134-f900259f-e231-4995-943c-526b0be6b5a2.png)
+
+You can find the images in [this link](https://hub.docker.com/repository/docker/arnabdas1993/hello-fast-api).
+
 ### Assignment 4:
 Automate Assignment below task using github action.
 1. Build Docker Image 
