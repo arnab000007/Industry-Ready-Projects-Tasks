@@ -140,3 +140,18 @@ You can find the github hosted page in [https://arnab000007.github.io/github-ope
 6. Stash changes
 7. Create a release your package
 8. Setup a Projects Board for your project.
+
+
+Creating a issue. 
+![image](https://user-images.githubusercontent.com/70307607/196087364-0e10f225-5dde-47ca-b9c2-64b6df88d829.png)
+
+Raise a pull request and merge it.
+![image](https://user-images.githubusercontent.com/70307607/196087674-c4f89087-1c4c-4aa0-b0cf-75d850b44ccb.png)
+
+Rejecting a pull request.
+![image](https://user-images.githubusercontent.com/70307607/196088633-8dc3d553-1839-4f21-8dc7-8ab5d4fa89ed.png)
+
+Added Dependabot alerts in your github.
+![image](https://user-images.githubusercontent.com/70307607/196089026-fd6db729-02b5-4889-861a-42f0ddd6107c.png)
+
+
