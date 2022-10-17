@@ -154,4 +154,10 @@ Rejecting a pull request.
 Added Dependabot alerts in your github.
 ![image](https://user-images.githubusercontent.com/70307607/196089026-fd6db729-02b5-4889-861a-42f0ddd6107c.png)
 
+Created a new release - [https://github.com/arnab000007/github-open-source/tags](https://github.com/arnab000007/github-open-source/tags).
+
+![image](https://user-images.githubusercontent.com/70307607/196239924-8369aadf-976d-48af-848d-7cddde029fad.png)
+
+Created a new project board - [https://github.com/users/arnab000007/projects/1/views/1](https://github.com/users/arnab000007/projects/1/views/1).
+![image](https://user-images.githubusercontent.com/70307607/196240973-7149b665-0636-4e11-ad47-ea3db7b7f021.png)
 
