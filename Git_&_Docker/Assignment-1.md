@@ -123,6 +123,14 @@ This Command used to delete a branch.
 3. Add 2 collaborator 
 4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
 
+This is the Open Source project - [https://github.com/arnab000007/github-open-source](https://github.com/arnab000007/github-open-source).
+
+Added 2 Collaborators
+![image](https://user-images.githubusercontent.com/70307607/196086490-4ce796dd-a03c-4cbc-a7b6-d4167712a70c.png)
+
+You can find the github hosted page in [https://arnab000007.github.io/github-open-source/](https://arnab000007.github.io/github-open-source/).
+
+
 ### Task 3 
 1. Create a Issue in your github repository.
 2. Raise a pull request.
